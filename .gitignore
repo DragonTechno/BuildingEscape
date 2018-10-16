@@ -7,8 +7,12 @@
 */Intermediate
 */Saved
 BuildingEscape/Content/StarterContent/
+BuildingEscape 4.20/Content/StarterContent/
 
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
+*.opendb
+*.db-shm
+*.db-wal
