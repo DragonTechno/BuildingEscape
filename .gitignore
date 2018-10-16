@@ -16,3 +16,5 @@ BuildingEscape 4.20/Content/StarterContent/
 *.opendb
 *.db-shm
 *.db-wal
+BuildingEscape 4.20/.vs/BuildingEscape/v15/.suo
+BuildingEscape/.vs/BuildingEscape/v15/.suo
