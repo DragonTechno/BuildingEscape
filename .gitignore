@@ -25,3 +25,4 @@ BuildingEscape 4.20/.vs/BuildingEscape/v15/ipch/AutoPCH/627134db015b0d24/BUILDIN
 BuildingEscape 4.20/.vs/BuildingEscape/v15/ipch/AutoPCH/4a852b103874b98b/POSITIONREPORTER.ipch
 BuildingEscape 4.20/.vs/BuildingEscape/v15/ipch/AutoPCH/1a3bd0ee5f81b4ea/OPENDOOR.ipch
 BuildingEscape/.vs/BuildingEscape/v15/.suo
+*.ipch
